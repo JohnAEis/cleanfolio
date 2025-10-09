@@ -6,7 +6,7 @@ const header = {
 
 const about = {
   // all the properties are optional - can be left empty or deleted
-  name: 'John Smith',
+  name: 'John Eis',
   role: 'Front End Engineer',
   picture: 'https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png',
 
@@ -69,7 +69,7 @@ const skills = [
 
 const contact = {
   // email is optional - if left empty Contact section won't show up
-  email: 'johnsmith@mail.com',
+  email: 'johnaidaneis@mail.com',
 }
 
 export { header, about, projects, skills, contact }
